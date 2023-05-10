@@ -1,0 +1,483 @@
+local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/cypherdh/VanisUILIB/main/.gitignore'))()
+
+local Window = library:CreateWindow("Jevil's Scripts Library", "🔥😎🔥", 10044538000)
+
+local Tab = Window:CreateTab("Scripts")
+
+local Page = Tab:CreateFrame("Shader Script's")
+
+Button = Page:CreateButton("Shader v1", "Meh, This one's Ok", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/BBtkqLpx"))()
+
+end)
+
+Button = Page:CreateButton("Voxel shaders", "nice", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/r2ni8tb3"))()
+
+end)
+
+Button = Page:CreateButton("Shader v2", "This one's good", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/aMqDhpXt"))()
+
+end)
+
+Button = Page:CreateButton("Shader v3", "Now this, this is on a new level", function()
+
+loadstring(game:HttpGet(('https://pastefy.ga/xXkUxA0P/raw'),true))()
+
+end)
+
+Label = Page:CreateLabel("Label")
+
+Label:UpdateLabel("No more shaders")
+
+local Page = Tab:CreateFrame("Main Script's")
+
+Button = Page:CreateButton("Reduce lag", "rrduces lag and increases the fps", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/ywFjby1i"))()
+
+end)
+
+Button = Page:CreateButton("BetterRoblox", "EternityHub", function()
+
+loadstring(game:HttpGet("https://eternityhub.xyz/BetterRoblox/Loader"))()
+
+end)
+
+Button = Page:CreateButton("Infinite yield", "Very useful", function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+
+end)
+
+Button = Page:CreateButton("FE Kidnap", "Kidnap players, walk near someone and press Z on your keyboard (needs a tool to work)", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/yrahZb9E"))()
+
+end)
+
+Button = Page:CreateButton("Nuke Hub", "This one's good", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/TheALLHACKLoader/main/NukeLoader"))()
+
+end)
+
+Button = Page:CreateButton("NoClip", "The powa of clipping", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MaksBloxX/NoClipScript/main/NoClip%20Roblox", true))()
+
+end)
+
+Button = Page:CreateButton("Fly", "Is it a bird? a plane? no, its a player bending the laws of physics", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MaksBloxX/NoClipScript/main/Fly%20V3", true))()
+
+end)
+
+Button = Page:CreateButton("Virtual Keyboard (mobile)", "Useful for those on mobile", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt"))()
+
+end)
+
+Button = Page:CreateButton("Simple spy", "Watcha' spyin' for eh?", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua"))()
+
+end)
+
+Button = Page:CreateButton("FEStreamSnipe", "snipe player's names and game they're currently at.", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Blissful4992/Miscellaneous/main/StreamSniper.lua"))()
+
+end)
+
+Button = Page:CreateButton("Fps unlocker", "Not sure if this one works for other executers out there", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/2MqFBmsU"))()
+
+end)
+
+Button = Page:CreateButton("Fullbright", "basically lightmode", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/JcZEsZ9B"))()
+
+end)
+
+Label = Page:CreateLabel("Label")
+
+Label:UpdateLabel("More soon")
+
+local Page = Tab:CreateFrame("Doors")
+
+Label = Page:CreateLabel("Label")
+
+Label:UpdateLabel("Main")
+
+Button = Page:CreateButton("GodMode(Works!!)", "By: MrNerd", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/GodModeByNerd.lua"))()
+
+end)
+
+Button = Page:CreateButton("Guns on Door 0", "By: PenguinManiack", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JevilOhio/Guns-on-door-0/main/message.txt?token=GHSAT0AAAAAACBVMMLNWNMANMG5DQF2QULCZCBLWBQ"))()
+
+end)
+
+Button = Page:CreateButton("Regen", "Regen to max health when low", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/LWQKTWcD"))()
+
+end)
+
+Button = Page:CreateButton("Thanksgiving Doors", "Thanks.(by: Zepsyy)", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZepsyyCodesLUA/Utilities/main/Doors/Thanksgiving.lua"))()
+
+end)
+
+Button = Page:CreateButton("Christmas Mod", "Christmas themed doors?", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZepsyyCodesLUA/Utilities/main/Doors/Christmas.lua"))()
+
+end)
+
+Button = Page:CreateButton("Doors Easter", "(by: Luke 3 for penguin maniack)", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/TPRtdmXN"))()
+
+end)
+
+Button = Page:CreateButton("Hardcore", "Beware of this script, it will make your game extremely hard", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/e1rt2w6N"))()
+
+end)
+
+Button = Page:CreateButton("Jeff the killerPlushie", "oh god (by: penguin Maniack)", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/6qFcNz0f", true))()
+
+end)
+
+Button = Page:CreateButton("Simple dread Plushie", "Im dead (by: Luke3)", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/uLcDyrAS", true))()
+
+end)
+
+Button = Page:CreateButton("Plushie UI", "coo (by: Kiwi Bird)", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/s21b8TkT", true))()
+
+end)
+
+Button = Page:CreateButton("HappyMeal Screech", "Turn Screech into a happy meal", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/W60XL38J"))()
+
+end)
+
+Button = Page:CreateButton("Doors Death Farmer", "you need at least 1 revive (by: Master Oogway)", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/K0t1n/Public/main/Doors%20Death%20Farmer"))()
+
+end)
+
+Button = Page:CreateButton("NoClip + ByPasser", "Keybind Is J (by: deivid)", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/EUjYk2uA"))()
+
+end)
+
+Button = Page:CreateButton("Be anything/Objects", "Become anything on doors", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/BeEverything.lua"))()
+
+end)
+
+Label = Page:CreateLabel("Label")
+
+Label:UpdateLabel("More soon")
+
+Label = Page:CreateLabel("Label")
+
+Label:UpdateLabel("Script's")
+
+Button = Page:CreateButton("Entity Spawner", "Meh, This one's decent", function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/plamen6789/UtilitiesHub/main/UtilitiesGUI'))()
+
+end)
+
+Button = Page:CreateButton("MsDoors", "works for some executers", function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/mstudio45/MSDOORS/main/MSDOORS.lua'))()
+
+end)
+
+Button = Page:CreateButton("Nerd Doors v4", "Join Nerds discord and whitelist your username", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/doorsnerdv4.lua"))()
+
+end)
+
+Button = Page:CreateButton("Darkrai X (Doors)", "cool one", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Doors"))()
+
+end)
+
+Button = Page:CreateButton("POOPDOORS (old)", "still works very well", function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/zoophiliaphobic/POOPDOORS/main/script.lua'))()
+
+end)
+
+Button = Page:CreateButton("Vynixius", "REALLY GOOD, FOR PC ONLY THOUGH (╥﹏╥)", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Doors/Script.lua"))()
+
+end)
+
+Label = Page:CreateLabel("Label")
+
+Label:UpdateLabel("More soon")
+
+Label = Page:CreateLabel("Label")
+
+Label:UpdateLabel("Doors ~ The rooms")
+
+Button = Page:CreateButton("Nerd doors v3.0 ~ rooms", "the rooms is hard", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/doorsroomdone.lua"))()
+
+end)
+
+Button = Page:CreateButton("Geodude's AutoWalk", "AutoWalk and AutoHide", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/FAw3hmY1"))()
+
+end)
+
+Label = Page:CreateLabel("Label")
+
+Label:UpdateLabel("Nothing here")
+
+Label = Page:CreateLabel("Label")
+
+Label:UpdateLabel("Doors Items Scripts")
+
+Button = Page:CreateButton("PetSimX", "Normal cat [Z] Pump Cat [X] by: Luke3", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/K0t1n/Public/main/Pet%20Sim%20X%20Pets%20script"))()
+
+end)
+
+Button = Page:CreateButton("Chocolate Bar", "by: Luke3", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/K0t1n/Public/main/Chocolate%20Bar%20Script"))()
+
+end)
+
+Button = Page:CreateButton("LaserGun", "by: Luke3", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/K0t1n/Public/main/Laser%20Gun"))()
+
+end)
+
+Button = Page:CreateButton("FE Banana gun", "by: MrNerd", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/BananaGunByNerd.lua"))()
+
+end)
+
+Button = Page:CreateButton("Tablet/Scanner", "Scans breakers, levers keys etc. (by: deivid)", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/q5AzUZem"))()
+
+end)
+
+Button = Page:CreateButton("Crusifix on anything", "Press Q (by: penguin maniack)", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/WB9VkM87"))()
+
+end)
+
+Button = Page:CreateButton("Custom Vitamins", "Gives you speed (by: oogway)", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/yDEV1nLD"))()
+
+end)
+
+Button = Page:CreateButton("Shears on Anything", "similar to the Crusifix on anything (by: PenguinManiack)", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/99JUbZqj"))()
+
+end)
+
+Button = Page:CreateButton("Magnet", "*Magnetic sounds* (by: MrNerd)", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/MagnetByNerd.lua"))()
+
+end)
+
+Button = Page:CreateButton("GummyFlashlight", "(by: Luk3)", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/K0t1n/Public/main/Gummy%20Flashlight%20Script"))()
+
+end)
+
+Button = Page:CreateButton("PurpleFlashlight", "(by: Luk3)", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/K0t1n/Public/main/Purple%20Flashlight"))()
+
+end)
+
+Button = Page: CreateButton("Holy Hand grenade on anything", "(by: MrNerd)", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/HolyGrenadeByNerd.lua"))()
+
+end)
+
+Label = Page:CreateLabel("Label")
+
+Label:UpdateLabel("More soon")
+
+local Page = Tab:CreateFrame("Blox Fruits")
+
+Button = Page:CreateButton("Zamex Hub", "cool features", function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Sixnumz/ZamexMobile/main/Zamex_Mobile.lua'))()
+
+end)
+
+Button = Page:CreateButton("Uranium Hub", "Decent", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Augustzyzx/UraniumMobile/main/UraniumKak.lua"))()
+
+end)
+
+Button = Page:CreateButton("BLCK Hub", "This one is cool and easy to use", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/main/BLCK"))()
+
+end)
+
+Label = Page:CreateLabel("Label")
+
+Label:UpdateLabel("More soon")
+
+local Page = Tab:CreateFrame("Build a boat")
+
+Button = Page:CreateButton("BABFT Gui", "why is there an UWU text in this script..", function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/XRoLLu/UWU/main/BUILD%20A%20BOAT%20FOR%20TREASURE.lua'))()
+
+end)
+
+Button = Page:CreateButton("Auto Build", "I have no imagination", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/max2007killer/auto-build-not-limit/main/autobuild.txt"))()
+
+end)
+
+Label = Page:CreateLabel("Label")
+
+Label:UpdateLabel("More soon")
+
+local Page = Tab:CreateFrame("Funky Friday")
+
+Button = Page:CreateButton("Auto Play", "i cant feel my arms", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShowerHead-FluxTeam/scripts/main/funky-friday-autoplay"))()
+
+end)
+
+Button = Page:CreateButton("Disable/Enable auto play", "why didn't the owner of this used keybinds instead?", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/dVtZwJte"))()
+
+end)
+
+Label = Page:CreateLabel("Label")
+
+Label:UpdateLabel("More soon")
+
+local Page = Tab:CreateFrame("Sonic Speed Sim")
+
+Button = Page:CreateButton("Fast lvl up", "literally fast level up", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe2/ToraIsMe2/main/0sonic2", true))()
+
+end)
+
+Label = Page:CreateLabel("Label")
+
+Label:UpdateLabel("More soon")
+
+local Page = Tab:CreateFrame("Shovelware's brain game")
+
+Button = Page:CreateButton("Auto Win", "I don't like quizzes", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JevilOhio/idk/main/Shovelware's%20brain%20game"))()
+
+end)
+
+Label = Page:CreateLabel("Label")
+
+Label:UpdateLabel("More soon")
+
+local Page = Tab:CreateFrame("Tower Of Hell")
+
+Button = Page:CreateButton("Tower of Hell", "you hate jumping", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dqvh/dqvh/main/SprinHub",true))()
+
+end)
+
+Label = Page:CreateLabel("Label")
+
+Label:UpdateLabel("More soon")
+
+local Page = Tab:CreateFrame("Apeirophobia")
+
+Button = Page:CreateButton("Free gamepass", "HOLYYYYY. reset for this to work btw", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/3cv3FMaF"))()
+
+end)
+
+Button = Page:CreateButton("Gui 1 (recommended)", "Cool one", function()
+
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/E240-h/apgui/main/n'),true))()
+
+end)
+
+Button = Page:CreateButton("Gui 2", "idk, this one's decent too", function()
+
+loadstring(game:HttpGet('https://pastebin.com/raw/0ptVa7Dn'))()
+
+end)
+
+Label = Page:CreateLabel("Label")
+
+Label:UpdateLabel("More soon")
+
+local Page = Tab:CreateFrame("MM2")
+
+Button = Page:CreateButton("Team Chams", "identify who's your team", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/sx8U81hN"))()
+
+end)
+
+Label = Page:CreateLabel("Label")
+
+Label:UpdateLabel("More soon")
